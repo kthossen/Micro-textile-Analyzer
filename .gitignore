@@ -1,0 +1,19 @@
+# Python & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.conda/
+
+# Large Datasets & Binary Index Files
+fabricnew/
+*.pt
+*.pth
+*.onnx
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
